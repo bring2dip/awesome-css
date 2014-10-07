@@ -13,10 +13,13 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 - [Styling for Prints](#styling-for-prints)
 - [Books](#books)
 - [Videos](#videos)
+- [Websites and Resources](#websites-and-resources)
 - [Presentations](#presentations)
 - [Frameworks](#frameworks)
+- [Tools](#tools)
 
 ##Articles and standards
+  - 
 
 ##Selectors
 
@@ -27,6 +30,11 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 ##Margins Paddings and Borders
 
 ##Styling for Prints
+
+##Websites and Resources
+  - http://www.hongkiat.com/blog/beginners-guide-to-css3/
+  - http://reference.sitepoint.com/css
+  - 
 
 ##Presentations
   - http://lea.verou.me/ft2010/#intro
@@ -42,3 +50,6 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
     - [Less Framework](http://lessframework.com/)
     - [Foundation](http://foundation.zurb.com/)
 
+##Tools
+  - http://css3test.com/
+  - 
