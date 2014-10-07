@@ -28,13 +28,17 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 
 ##Styling for Prints
 
-##Frameworks
-- Rankings from different Websites
-  - (http://usablica.github.io/front-end-frameworks/compare.html)
-  - (http://mashable.com/2013/04/26/css-boilerplates-frameworks/)
+##Presentations
+  - http://lea.verou.me/ft2010/#intro
+  - 
 
-- Top List
-  - [Bootstrap](http://getbootstrap.com/)
-  - [Less Framework](http://lessframework.com/)
-  - [Foundation](http://foundation.zurb.com/)
+##Frameworks
+  - Rankings from different Websites
+    - http://usablica.github.io/front-end-frameworks/compare.html
+    - http://mashable.com/2013/04/26/css-boilerplates-frameworks/
+
+  - Top List
+    - [Bootstrap](http://getbootstrap.com/)
+    - [Less Framework](http://lessframework.com/)
+    - [Foundation](http://foundation.zurb.com/)
 
