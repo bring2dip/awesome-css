@@ -29,7 +29,7 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 ##Styling for Prints
 
 ##Frameworks
--Rankings from different Websites
+- Rankings from different Websites
   - (http://usablica.github.io/front-end-frameworks/compare.html)
   - (http://mashable.com/2013/04/26/css-boilerplates-frameworks/)
 
