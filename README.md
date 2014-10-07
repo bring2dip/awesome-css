@@ -15,7 +15,6 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 - [Videos](#videos)
 - [Presentations](#presentations)
 - [Frameworks](#frameworks)
-- 
 
 ##Articles and standards
 
@@ -31,8 +30,8 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 
 ##Frameworks
 -Rankings from different Websites
-  - [](http://usablica.github.io/front-end-frameworks/compare.html)
-  - [](http://mashable.com/2013/04/26/css-boilerplates-frameworks/)
+  - (http://usablica.github.io/front-end-frameworks/compare.html)
+  - (http://mashable.com/2013/04/26/css-boilerplates-frameworks/)
 
 - Top List
   - [Bootstrap](http://getbootstrap.com/)
