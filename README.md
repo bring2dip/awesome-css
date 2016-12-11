@@ -1,7 +1,7 @@
 Awesome-CSS
 ===========
 
-A curated list of awesome CSS resources. Inspired by [awesome-lists](https://github.com/indresorhus/awesome)
+A curated list of awesome CSS resources. Inspired by [awesome-lists](https://github.com/sindresorhus/awesome)
 
 ##Table of Contents
 - [Articles and standards](#articles-and-standards)
