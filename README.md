@@ -3,7 +3,7 @@ Awesome-CSS
 
 A curated list of awesome CSS resources. Inspired by [awesome-lists](https://github.com/sindresorhus/awesome)
 
-##Table of Contents
+## Table of Contents
 - [Articles and standards](#articles-and-standards)
 - [History](#history)
 - [Selectors](#selectors)
@@ -21,43 +21,43 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
 - [Frameworks](#frameworks)
 - [Tools](#tools)
 
-##Articles and standards
+## Articles and standards
   - http://www.w3.org/Style/CSS/
   - 
 
-##History
+## History
   - http://www.w3.org/Style/LieBos2e/history/
 
-##Selectors
+## Selectors
 
-##Layouts
+## Layouts
 
-##Colors and Backgrounds
+## Colors and Backgrounds
 
-##Margins Paddings and Borders
+## Margins Paddings and Borders
 
-##Styling for Prints
+## Styling for Prints
 
-##Colors
+## Colors
   - http://www.december.com/html/spec/color.html
   - http://www.colorzilla.com/gradient-editor/
 
-##Coding Standards and Best Practices
+## Coding Standards and Best Practices
   - http://www.sitepoint.com/css-architectures-new-best-practices/
   - http://learn.shayhowe.com/html-css/writing-your-best-code/
   - http://www.smashingmagazine.com/2013/10/21/challenging-css-best-practices-atomic-approach/
   - https://github.com/stevekwan/best-practices/blob/master/css/best-practices.md
 
-##Websites and Resources
+## Websites and Resources
   - http://www.hongkiat.com/blog/beginners-guide-to-css3/
   - http://reference.sitepoint.com/css
   - 
 
-##Presentations
+## Presentations
   - http://lea.verou.me/ft2010/#intro
   - 
 
-##Frameworks
+## Frameworks
   - Rankings from different Websites
     - http://usablica.github.io/front-end-frameworks/compare.html
     - http://mashable.com/2013/04/26/css-boilerplates-frameworks/
@@ -67,6 +67,6 @@ A curated list of awesome CSS resources. Inspired by [awesome-lists](https://git
     - [Less Framework](http://lessframework.com/)
     - [Foundation](http://foundation.zurb.com/)
 
-##Tools
+## Tools
   - http://css3test.com/
   - 
